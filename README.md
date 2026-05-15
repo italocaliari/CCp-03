@@ -21,13 +21,19 @@ O projeto foi estruturado seguindo os padrões solicitados:
 1. **Menu Principal:** ![Menu]
 <img width="1105" height="621" alt="Captura de tela 2026-05-14 212629" src="https://github.com/user-attachments/assets/83ca956d-7f2c-4b73-817e-759b83572e43" />
 
-2. **Registro e Listagem:** ![Listagem]
+2. **Menu Compra:** ![Compra]
 <img width="1105" height="618" alt="Captura de tela 2026-05-14 212709" src="https://github.com/user-attachments/assets/0edf83ac-6e37-497e-99cf-a1549bf7842e" />
+
+3. **Menu Venda:** ![Venda]
 <img width="1099" height="615" alt="Captura de tela 2026-05-14 212756" src="https://github.com/user-attachments/assets/8517a78d-1f4a-4aa6-88f6-58f77bb85d52" />
+
+4. **Registro e Listagem:** ![Listagem]
 <img width="1102" height="619" alt="Captura de tela 2026-05-14 212811" src="https://github.com/user-attachments/assets/2d41ee6d-0edf-485f-9e6c-ab58c3c7f908" />
 
-3. **Cálculo de Totais:** ![Totais]
+5. **Cálculo de Totais:** ![Totais]
 <img width="1105" height="620" alt="Captura de tela 2026-05-14 212821" src="https://github.com/user-attachments/assets/8c90fb27-f4f1-4c79-ba20-e168cdedae16" />
+
+6. **Fim de Operação:** ![Fim]
 <img width="1106" height="620" alt="Captura de tela 2026-05-14 212831" src="https://github.com/user-attachments/assets/4aaf0919-b6bc-4762-af78-0fb95cfcf105" />
 
 
