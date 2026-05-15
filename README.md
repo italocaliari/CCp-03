@@ -35,9 +35,3 @@ O projeto foi estruturado seguindo os padrões solicitados:
 
 6. **Fim de Operação:** ![Fim]
 <img width="1106" height="620" alt="Captura de tela 2026-05-14 212831" src="https://github.com/user-attachments/assets/4aaf0919-b6bc-4762-af78-0fb95cfcf105" />
-
-
-## 🛠️ Como rodar o projeto
-1. Clone o repositório.
-2. Certifique-se de ter o .NET SDK instalado.
-3. Execute o comando `dotnet run` na pasta do projeto.
