@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\bin\Debug\net8.0\InvestimentoApp.exe
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\bin\Debug\net8.0\InvestimentoApp.deps.json
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\bin\Debug\net8.0\InvestimentoApp.runtimeconfig.json
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\bin\Debug\net8.0\InvestimentoApp.dll
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\bin\Debug\net8.0\InvestimentoApp.pdb
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.dll
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\refint\InvestimentoApp.dll
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.pdb
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\InvestimentoApp.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\CCp-03\InvestimentoApp\InvestimentoApp\obj\Debug\net8.0\ref\InvestimentoApp.dll
